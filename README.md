@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Ivo 👋
 
-<!--
-**SniFeris/SniFeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior AML / Compliance specialist with a background in customs and risk analysis.
 
-Here are some ideas to get you started:
+🔹 Interested in data analysis, fraud detection, and automation  
+🔹 Working with Python, SQL, Excel, and google sheets   
+🔹 Building practical AML tools and projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goal
+• To become a professional AML / Compliance Analyst specializing in data-driven risk detection and automation
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+</p>
+
+
